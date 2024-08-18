@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welkom op mijn site</title>
+</head>
+<body>
+    <h1>Hallo, wereld!</h1>
+    <p>Dit is mijn eerste website gehost op GitHub Pages.</p>
+</body>
+</html>
